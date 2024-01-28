@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./OldRepublicCargo.png] (The Old Republic Cargo)
+![OldRepublicCargo.png] (The Old Republic Cargo)
 
-Este repositorio de exemplo de usuo do git
+Este é um repositorio de exemplo de uso do git
